@@ -7,8 +7,9 @@ Get the weather information for five days test
 3 Dependency injection: Used dagger to inject presenters into the fragments and inject RequestInterface(Retrofit/offline caching in okhttpi)in Interactor_Impl class </br> 
 4 RxJava 2: Used reactive programming for concurrency / asynchronous data streams/ chain async operations / Multi threading using schedulers/ Disposable to avoid memory leaks in the apps
 5 Retrofit2/okhttp: Connection to external API
-6 MVP Design pattern: Divided the application into at least three different layers, which let us test them independently. With MVP we are able to take most of logic out from the activities so that we can test it without using instrumentation tests.
-7 Material Design: Used Recyclerview and cardview to load five days weather information.
+6 MVP Design pattern: Divided the application into at least three different layers, which let us test them independently. With MVP we are able to take most of logic out from the activities so that we can test it without using instrumentation tests.</br> 
+7 Material Design: Used Recyclerview and cardview to load five days weather information.</br> 
+8 Offline Caching: Cache network requests for offline access with Retrofit2 and OkHTTP3 tags.</br> 
 
 # Instrctions to run app- Android API</br>
 1 minimum API: 15</br>
