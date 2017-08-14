@@ -24,4 +24,4 @@ Get the weather information for five days test
 5 Get the location of the used by dafault, to display weather information on app launch.</br>
 
 
-![image](https://ibb.co/hLOpWa)
+![image](https://preview.ibb.co/cwJOra/device_2017_08_14_011602.png)
