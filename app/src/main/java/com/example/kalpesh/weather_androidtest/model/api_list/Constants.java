@@ -14,10 +14,6 @@ public class Constants {
     public final static String API_WEATHER_5_DAYS = "forecast?q=London&appid=";
 
     /**
-     * API KEY
-     */
-    public final static String WEATHER_API_KEY = "8857249e5a84012b0250b592d789eea8";
-    /**
      * Weather webserver
      */
     public final static String URL_IMG_WEATHER = "http://openweathermap.org/img/w/";
@@ -25,6 +21,10 @@ public class Constants {
      * Weather extension
      */
     public final static String EXT_WEATHER = ".png";
+    /**
+     * API KEY
+     */
+    public final static String WEATHER_API_KEY = "643a2a5ee16c6a6f9613ff51e0c5edfd";
 
 
 }
